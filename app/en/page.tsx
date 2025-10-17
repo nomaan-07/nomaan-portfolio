@@ -1,5 +1,7 @@
+import MainWrapper from "../_components/MainWrapper";
+
 function EnPage() {
-  return <div>En Page</div>;
+  return <MainWrapper />;
 }
 
 export default EnPage;
